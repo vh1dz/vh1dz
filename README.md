@@ -1,16 +1,15 @@
-### Hi there 👋
+```zsh
+> neofetch
+```
 
-<!--
-**vh1dz/vh1dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://avatars.githubusercontent.com/u/142182093?s=400&u=091381073a35f2d0f90c8c7369035ae40d17b457&v=4" alt="logo.png" width="170" /> 
 
-Here are some ideas to get you started:
+```cs
+vh1dz@github
+----------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       OS:  Linux Ubuntu 22
+Languages:  C++, PhP, C#, Java, JavaScript, CSS, Go, Python
+  Discord:  @vh1dz
+ Telegram:  @AmericanSwater
+```
