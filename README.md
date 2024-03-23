@@ -10,6 +10,6 @@ vh1dz@github
 
        OS:  Linux Ubuntu 22
 Languages:  C++, PhP, C#, Java, JavaScript, CSS, Go, Python
-  Discord:  @vh1dz
- Telegram:  @AmericanSwater
+  Discord:  @vh1dzik
+ Telegram:  @worldadapter
 ```
